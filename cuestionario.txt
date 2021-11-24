@@ -1,17 +1,20 @@
 Emiliano Abel Alegría Betancourt y Juan Diego Abreu Sosa (12#1)
 
 1. En tus palabras, ¿Qué es internet?
-
+R. Internet es donde puedes encontrar todo tipo de información.
 2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-
+R. 
 3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-
+R. Es una gran linea de computadoras conectadas entre si en donde todas se comparten informacion mutuamente
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-
+R. 
 5. Describe los protocolos que existen en internet, en específico HTTP y HTML
-
+R. HTTP es un protocolo el cual nos permite realizar una petición de datos y recursos
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-
+R. 
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-
+En internet nunca se puede estar 100% seguro, pero hay algunas cosas como el tener contraseñas seguras, 
+no compartir información confidencial y verificar las páginas que visitas; te pueden manter un poco más
+seguro.
 8. ¿Cómo funciona la búsqueda de google?
+R. 
